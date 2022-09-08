@@ -3,7 +3,6 @@
 
 int main()
 {
-    //alae
     //https://www.youtube.com/watch?v=sDeiSjffS5Y
     //correction des exos
     //49
